@@ -4,6 +4,9 @@
 STL Files
   The STL files are ready to print and assembled. Can get it at https://www.thingiverse.com/thing:4100698
 
+Software
+1. Add PID library in the Arduino IDE.
+
 Hardware components
   1.	Arduino UNO
   2.	5V DC power supply
