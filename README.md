@@ -2,7 +2,7 @@
 
 
 STL Files
-  The STL files are ready to print and assembled. Can get it at 
+  The STL files are ready to print and assembled. Can get it at https://www.thingiverse.com/thing:4100698
 
 Hardware components
   1.	Arduino UNO
