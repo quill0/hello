@@ -1,4 +1,0 @@
-Features Selection
--remove irrelevant features, performing better result
--easier to understand the model
--run the model faster
